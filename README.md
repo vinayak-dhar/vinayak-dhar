@@ -1,16 +1,298 @@
-## Hi there 👋
+<h1 align="center">Hey there 👋, I'm Vinayak Dhar</h1>
 
-<!--
-**vinayak-dhar/vinayak-dhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=600&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Full-Stack+Web+Developer;I+LOVE+DSA;Tech+Enthusiast+%F0%9F%94%A5;Always+Learning+New+Things+%F0%9F%92%AF" alt="Typing SVG" />
+  </a>
+</p>
+
+
+<h3 align="center">
+  
+
+
+ 
+  
+
+  🚀 Student Developer | 🧠 DSA Enthusiast | 🌱 Full Stack Learner
+</h3>
+
+
+<p align="center">
+
+   
+![GitHub Stats](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
+  
+</p>
+
+---
+
+
+
+
+
+## 📊 GitHub Stats
+
+[![An image of @vinayak-dhar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinayak-dhar)](https://holopin.io/@vinayak-dhar)
+
+  <img src="https://github-profile-trophy.vercel.app/?username=vinayak-dhar&theme=dracula&title=-Reviews" width ="100%" alt="GitHub Trophies" />
+  <img src="https://github.com/user-attachments/assets/0b24e1b6-fccb-448a-9454-7d5f4b41bb6e" >
+
+
+## <img width="40px" src="https://img.shields.io/badge/-100000?logo=github&logoColor=white"/> Github Stats :  <img width="40px" src="https://img.shields.io/badge/-100000?logo=github&logoColor=white"/>
+
+<img src="https://pacman.abozanona.me?username=vinayak-dhar" />
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img align="center" src="https://streak-stats.demolab.com/?user=vinayak-dhar&currStreakNum=2FD3EB&fire=pink&theme=dark&sideLabels=F00&date_format=[Y.]n.j" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinayak-dhar&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-dhar&layout=compact&theme=algolia" alt="Top Languages" width="400" height="250" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinayak-dhar&theme=blue_green&utcOffset=8" width="400" height="250" alt="Productive Time" />
+</p>
+
+
+
+<div align=center height="750">
+
+
+ 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayak-dhar&theme=vision_friendly_dark)
+
+
+</div>
+
+ 
+
+ <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayak-dhar&radius=16&theme=high-contrast&area=true&order=5&custom_title=Activity%20Contributions%20Graph&line=00ff00&area_color=005f99&bg_color=000000&hide_border=true" alt="Activity Graph" />
+</p>
+ 
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vinayak-dhar/vinayak-dhar/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vinayak-dhar/vinayak-dhar/output/github-snake.svg" />
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/vinayak-dhar/vinayak-dhar/output/github-snake.svg" />
+</picture>
+
+
+
+
+
+## 🚀 Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+
+</p>
+
+### 🌐 Frontend
+<p>
+ <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,figma,bootstrap,daisyui" />
+
+</p>
+
+### 🔧 Backend & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,cloudflare,jwt,socket" />
+
+</p>
+
+### 🧰 Dev Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,ubuntu,vercel" />
+
+
+
+
+
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+```java
+import java.util.*;
+import java.util.Arrays;
+import java.util.List;
+
+public class VINAYAK {
+    private String name;
+    private String university;
+    private String major;
+    private String year;
+    private String status;
+
+    public VINAYAK() {
+        this.name = "VINAYAK Dhar";
+        this.university = "Chitkara University, Chandigarh";
+        this.major = "Computer Science & Engineering";
+        this.year = "3rd Year";
+        this.status = "Tech Enthusiast | 🌱 Full Stack Learner";
+    }
+
+    public List<String> recentProjects() {
+        return Arrays.asList("Working Social Media Application", "Aura++");
+    }
+
+    public String superpower() {
+        return "Transforming real-world problems into project solutions";
+    }
+}
+```
+
+
+
+
+
+---
+
+## 🚀 Projects
+
+
+### 🌌 Aura - Instagram Clone  [`Live Demo`](https://VINAYAKaura.vercel.app)       [`Github`](https://github.com/vinayak-dhar/Aura)
+> A full-featured **Instagram clone** built with **MERN Stack** + **Socket.IO**, featuring real-time chat, image uploads, and interactive social features.
+
+🛠️ **Tech Stack:**  
+`React` • `Redux Toolkit` • `TailwindCSS` • `Node.js` • `Express` • `MongoDB` • `Socket.io` • `Cloudinary` • `JWT` • `Bcrypt` • `Multer` • `Sharp` • `DataUri`
+
+<p align="center">
+  <img src="https://github.com/vinayak-dhar/Aura/blob/main/Aura_video.gif?raw=true" width="1400" />
+</p>
+
+## ✨ Key Highlights  
+
+### 🔐 Secure Authentication  
+- JWT-based authentication with **bcrypt** password hashing.  
+- Persistent cookie sessions and secure token handling.  
+- Input validation and robust error management.  
+
+### 📸 Post Management  
+- Cloud-based uploads via **Cloudinary** with image optimization.  
+- Like, comment, bookmark, and share posts in real time.  
+- Smooth post previews and responsive grid layout.  
+
+### 💬 Real-Time Chat System  
+- 1-on-1 real-time messaging using **Socket.IO**.  
+- Live online/offline indicators and typing status.  
+- Message timestamps, media sharing, and read receipts.  
+
+### 👤 User Profiles  
+- Editable profile (avatar, bio, username, settings).  
+- Follow/unfollow functionality with realtime updates.  
+
+
+### 📱 Modern & Responsive UI  
+- Built with **TailwindCSS** for adaptive, consistent layouts.  
+- Mobile-first responsive design with smooth animations.  
+- Lazy loading and skeleton UI for enhanced user experience.  
+
+---
+
+## 📊 Bonus Features  
+- 🔔 Real-time notifications for likes, comments, and follows with Socket-io. 
+- 💾 Cloud CDN integration for optimized asset delivery.  
+- 🧩 Modular and clean code architecture.  
+- ⚙️ CI/CD ready for easy deployment and testing.  
+
+---
+
+
+---
+
+### 🎓 EduConnect — Student ↔ Mentor Platform   (https://VINAYAK2.vercel.app)         [`Github`](https://github.com/vinayak-dhar/EduConnect)
+> A real‑time web app that pairs students with mentors for chat, calls, resource sharing, and progress tracking.  
+
+📌 Built with  
+`Nextjs` | `TailwindCSS` | `Google app Script` | `Node.js` | `Express` | `NeonDB` | `Prisma` | `ShadcnUI` | `Clerk` | `Vonage` | `FullCalendar`
+
+   
+  <img src="https://github.com/vinayak-dhar/vinayak-dhar/blob/main/images/educonnect-4.gif?raw=true" width="1400" />
+
+✔️ Features:
+- 🌟 User Profiles
+Customizable profiles where students and mentors can upload avatars, set display names, and update bio or expertise information.
+
+
+- 📹 Instant Video Calling
+Seamless one-click video call functionality powered by Vonage, enabling face-to-face mentorship sessions with optional screen sharing.
+
+- 🗓️ Session Scheduling
+Students can book mentorship slots using an intuitive calendar view; mentors manage upcoming calls and availability with ease.
+
+- 🔐 Clerk Authentication and Payment Integration
+Fully secure login and registration flow managed by Clerk, supporting Google sign-in, magic links, and role-based access control.
+Built-in billing support using Clerk’s pricing component (backed by Stripe), allowing users to upgrade to premium features or plans.
+
+- 🛡️ Password Security with Clerk
+Clerk handles password encryption and account safety using modern security protocols, ensuring robust protection without manual config.
+
+- 🗄️ Neon + Prisma Database
+All data — user profiles, sessions, and call history — is stored in a scalable and modern Neon (PostgreSQL) database using Prisma ORM.
+
+- 💻 Modern & Responsive UI
+A clean, intuitive, and fully responsive UI built with DaisyUI and TailwindCSS, optimized for desktops, tablets, and smartphones.
+
+- ✉️ Email Contact Feature
+Users can send messages or queries directly to the admin using a contact form powered by Google App Script for email delivery.
+
+- 📊 Admin Dashboard
+Platform owner can monitor platform usage, manage users, and export key data through a secure and functional admin interface.
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+---
+
+
+
+## 🧑‍🎓 Still Learning!
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="100%">
+</p>
+
+I'm still learning every day and growing as a developer 🚀  
+Always building, always curious.
+
+---
+
+
+
+
+
+
+## ✍️ Random Dev Quote
+
+[![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+## 📬 Contact Me
+
+<p>
+  <a href="mailto:vinayak.dhar04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-vinayak.dhar04@gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/vinayak-dhar">
+    <img src="https://img.shields.io/badge/GitHub-vinayakdhar-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+
+
+<div align="center"><img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="GIF" width="800px" ></div>
