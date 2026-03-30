@@ -35,7 +35,7 @@
 
 ## 📊 GitHub Stats
 
-[![An image of @vinayak-dhar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinayak-dhar)](https://holopin.io/@vinayak-dhar)
+[![An image of @vinayak-dhar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vinayakdhar)](https://holopin.io/@vinayakdhar)
 
   <img src="https://github-profile-trophy.vercel.app/?username=vinayak-dhar&theme=dracula&title=-Reviews" width ="100%" alt="GitHub Trophies" />
   <img src="https://github.com/user-attachments/assets/0b24e1b6-fccb-448a-9454-7d5f4b41bb6e" >
